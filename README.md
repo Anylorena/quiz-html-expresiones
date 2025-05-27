@@ -1,8 +1,8 @@
 # quiz-html-expresionesIdentificación de Delimitadores:
 
-La función debe identificar y verificar únicamente los paréntesis () , las llaves {} , y los corchetes [] Los caracteres no delimitadores (como letras, números y operadores) pueden ser ignorados en el proceso de validación.
+esta identifica y verifica únicamente los paréntesis () , las llaves {} , y los corchetes [] Los caracteres no delimitadores (como letras, números y operadores) pueden ser ignorados en el proceso de validación.
 
-Reglas para Expresiones Equilibradas:
+Las reglas para Expresiones Equilibradas:
 
 Cada delimitador de apertura debe tener su correspondiente delimitador de cierre en el orden correcto. Los delimitadores anidados deben cerrarse en el orden inverso al que se abrieron. Ejemplo: ({[]}) es equilibrado. ([)] no es equilibrado. La expresión debe terminar con todos los delimitadores cerrados.
 
